@@ -1,4 +1,6 @@
 #clockContainer{  
+    margin-top:15px;
+    margin-bottom:15px;
     position: relative;
     margin: auto;
     height: 40vw;
