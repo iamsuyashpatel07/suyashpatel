@@ -37,6 +37,7 @@
 }
 /* STYLES SPECIFIC TO FOOTER  */
 .footer {
+  padding: 10px 0px 0px 1px;
   width: 100%;
   position: relative;
   height: auto;
