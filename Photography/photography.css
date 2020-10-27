@@ -5,6 +5,15 @@
   height: auto;
   background-color: #070617;
 }
+h1#head
+{
+  padding-bottom: 0.1;
+  font-family: Comic Sans MS;
+}
+img.carousel-edit{
+  height:-webkit-fill-available;
+  width:100%;
+}
 .footer .col {
   width: 190px;
   height: auto;
