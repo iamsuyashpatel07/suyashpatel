@@ -5,6 +5,8 @@ This repository is a project where
 ## JavaScript 
 are Used to make a personal website.
 - Where a person can share  blog , photography and portfolio.
-Those who are interested on making contribution to this repository are highly welcome. To make a contribution, you can generate your own special issue and can work over it to resolve the issue.
+- Those who are interested on making contribution to this repository are highly welcome.
+- To make a contribution, 
+- You can generate your own special issue and can work over it to resolve the issue.
 
 
