@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#blog {
+    height: auto;
+    width: auto;
+}
+
+#blogtype {
+    padding: 2% 0% 2% 0%;
+    box-shadow: 5px 10px 5px rgb(3, 34, 16);
+    text-align: center;
+}
+
+#content {
+    align-items: center;
+    margin: 2% 15% 2% 15%;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px violet;
+}
