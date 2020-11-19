@@ -1,5 +1,5 @@
 var i = 0
 
-function onclick() {
+function Count(){
     document.getElementById("OUTPUT").innerHTML = "LIKE " + (i++ + 1);
 }
