@@ -1,9 +1,5 @@
-function Count() {
-    let i = 0;
-    document.getElementById("OUTPUT").innerHTML = "LIKE " + (++i);
-}
+var i = 0
 
-function Count2() {
-    let k = 0;
-    document.getElementById("OUT").innerHTML = "LIKE " + (++k);
+function Count(){
+    document.getElementById("OUTPUT").innerHTML = "LIKE " + (i++ + 1);
 }
