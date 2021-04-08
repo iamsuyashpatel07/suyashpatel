@@ -22,6 +22,7 @@ h1#head
 img.carousel-edit{
   height:-webkit-fill-available;
   width:100%;
+  object-fit: cover;
 }
 .footer .col {
   width: 190px;
